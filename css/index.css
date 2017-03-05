@@ -245,7 +245,6 @@ fieldset[disabled] .bb_nav .btn-link:focus {
     // position: relative;
 }
 .bb_partner img:hover {
-    background-color: red;
     box-shadow: 0px 0px 50px #7FCDE6;
     width: 110%;
     position:relative;
