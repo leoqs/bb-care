@@ -69,7 +69,7 @@ function banner(){
         moveX = e.originalEvent.touches[0].clientX;
         distanceX = moveX-startX;
         isMove = true;
-        console.log(distanceX);
+
     });
     $('.bb_banner').on('touchend',function(e){
         if(Math.abs(distanceX) > 50 && isMove){
