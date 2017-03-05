@@ -1,0 +1,18 @@
+[
+  {
+    "img":"images/banner01-sm.png",
+    "bg":"images/banner01.png"
+  },
+  {
+    "img":"images/banner02-sm.png",
+    "bg":"images/banner02.png"
+  },
+  {
+    "img":"images/banner03-sm.png",
+    "bg":"images/banner03.png"
+  },
+  {
+    "img":"images/banner04-sm.png",
+    "bg":"images/banner04.png"
+  }
+]
